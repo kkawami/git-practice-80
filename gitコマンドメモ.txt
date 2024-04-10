@@ -1,0 +1,9 @@
+▼コミットログの確認
+git log --oneline
+
+▼ローカルリポジトリとワーキングツリーの差分
+git diff
+
+▼ステージングエリアと最新のHEADの差分
+git diff --cached
+
